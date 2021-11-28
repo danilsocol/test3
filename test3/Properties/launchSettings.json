@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "test3": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Seraphic\\source\\repos\\test3"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAYCKmvQVwDe6Pvz9HhLOvrETlIIS2w4oTdPnm/ON7OMVsIDrP4rJ4wKIPWCKnLL2n1au5tZCju7z+sHdCfWwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seraphic\\source\\repos\\test3\\test3\\test3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seraphic\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Seraphic\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
